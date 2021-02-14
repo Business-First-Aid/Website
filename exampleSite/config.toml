@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "Business First Aid"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -10,7 +10,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = ["fr"]
 
 ############################# Plugins ##########################
 # css plugins
@@ -83,13 +83,6 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
-
 
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
