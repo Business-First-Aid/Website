@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://bfa.netlify.app/"
 title = "Business First Aid"
 theme = "meghna-hugo"
 themesDir = "../.."
