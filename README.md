@@ -41,8 +41,8 @@ First we will fork this [Meghna Hugo](https://github.com/themefisher/meghna-hugo
 ### Step 2 : Add your repository in Forestry
 Go to your [Forestry](https://forestry.io) account and click on `import your site now`.
 
-**Or just click this button for import to forestry** [![import to forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/meghna-hugo&engine=hugo&version=0.60.1&config=exampleSite) **and 
-declare your config.toml file from `exampleSite` directory and fill up basic settings.**
+**Or just click this button for import to forestry** [![import to forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/meghna-hugo&engine=hugo&version=0.60.1&config=site) **and 
+declare your config.toml file from `site` directory and fill up basic settings.**
 
 Now mark everything as done. Then go to configuration to change the base url. You can put any url but this have to be similar as netlify. So, for now, put a name which you are going to put in netlify as netlify subdomain.
 
@@ -62,9 +62,9 @@ At the top we have shown an easy hugo installation. But if you still think you w
 $ git clone git@github.com:themefisher/meghna-hugo.git
 ```
 
-* Go to exampleSite dict and run hugo server
+* Go to site dict and run hugo server
 ```
-$ cd meghna-hugo/exampleSite/
+$ cd meghna-hugo/site/
 $ hugo server --themesDir ../..
 ```
 Or Check out [Full Documentation](https://docs.gethugothemes.com/meghna/?ref=github).
