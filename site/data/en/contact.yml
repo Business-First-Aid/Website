@@ -9,9 +9,8 @@ contact:
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Warsaw, Poland 🇵🇱"
-      
     - icon : ti-link # themify icon pack : https://themify.me/themify-icons
-      info : "www.upwork.com/agencies/~01c9d64c20dd995d7f"
+      info : "https://bfa.tiksn.com/"
 
 
   # Contact form
