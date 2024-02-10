@@ -4,7 +4,7 @@ feature:
   image : images/about/about-business.jpg
   image_webp : images/about/about-business.webp
   title : We’re A Software Development Agency.
-  content : "We are a team of 2 developers experienced at web application development with technologies like Angular, React, JavaScript/TypeScript, .NET 7, .NET Framework 4.8, ASP.NET [Core], Microsoft SQL Server, PostgreSQL, MySQL MongoDB."
+  content : "We are a team of 2 developers experienced at web application development with technologies like Angular, React, JavaScript/TypeScript, .NET 8, .NET Framework 4.8.1, ASP.NET [Core], Microsoft SQL Server, PostgreSQL, MySQL MongoDB."
   feature_item : 
       # feature item loop
     - title : Front-End

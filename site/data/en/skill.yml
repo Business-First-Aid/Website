@@ -18,7 +18,7 @@ skill:
       percent: 90%
 
     # skill item loop
-    - name: .NET 7 / .NET Framework 4.8
+    - name: .NET 8 / .NET Framework 4.8.1
       percent: 95%
 
     # skill item loop
