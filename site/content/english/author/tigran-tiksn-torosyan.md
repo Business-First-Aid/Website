@@ -9,11 +9,9 @@ social:
     link : "https://github.com/tiksn"
   - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
     link : "https://www.linkedin.com/in/tiksn"
-  - icon : "ti-skype" # themify icon pack : https://themify.me/themify-icons
-    link : "skype:akatiksn?chat"
 ---
 
-I am a Software Team Leader with over **13** years of experience in developing and maintaining web and mobile applications, backend APIs, and microservices.
+I am a Software Team Leader with over **14** years of experience in developing and maintaining web and mobile applications, backend APIs, and microservices.
 
 Skilled in leading teams of developers to successfully deliver complex software projects. I am not afraid of architectural or technical challenges. Excellent communication and interpersonal skills, with the ability to build strong relationships with team members and stakeholders.
 
