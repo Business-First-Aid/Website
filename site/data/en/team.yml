@@ -7,7 +7,7 @@ team:
       image_webp : "images/team/tiksn.webp"
       image : "images/team/tiksn.jpg"
       designation : "Backend Technical Leader"
-      content : I am a Software Team Leader with over **13** years of experience in developing and maintaining web and mobile applications, backend APIs, and microservices.
+      content : I am a Software Team Leader with over **14** years of experience in developing and maintaining web and mobile applications, backend APIs, and microservices.
       social :
         - icon : "ti-world" # themify icon pack : https://themify.me/themify-icons
           link : "https://tiksn.com/"
@@ -15,8 +15,6 @@ team:
           link : "https://github.com/tiksn"
         - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/tiksn"
-        - icon : "ti-skype" # themify icon pack : https://themify.me/themify-icons
-          link : "skype:akatiksn?chat"
 
     - name : "Ashot Nazaryan"
       image_webp : "images/team/ashot.webp"
@@ -24,8 +22,6 @@ team:
       designation : "Senior Frontend Developer"
       content : I am a Senior Front-End developer with **10** years of commercial experience in developing and maintaining web and mobile applications.
       social :
-        - icon : "ti-skype" # themify icon pack : https://themify.me/themify-icons
-          link : "skype:ashot0991?call"
         - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
           link : "https://github.com/ashotnazaryan"
         - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
