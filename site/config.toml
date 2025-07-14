@@ -203,7 +203,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2025 [Tigran (TIKSN) Torosyan](https://tiksn.com/) & [Ashot Nazaryan](https://bfa.tiksn.com/author/ashot/)"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -212,4 +212,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2025 [Tigran (TIKSN) Torosyan](https://tiksn.com/) & [Ashot Nazaryan](https://bfa.tiksn.com/author/ashot/)"
