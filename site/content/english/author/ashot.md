@@ -9,7 +9,7 @@ social:
     link : "https://www.linkedin.com/in/ashotnazaryanjs"
 ---
 
--	10 years of professional experience in the Information Technology industry;
+-	11 years of professional experience in the Information Technology industry;
 -	Solid overall understanding of the IT industry, especially software development;
 -	Proficient knowledge of JavaScript/TypeScript and popular libraries, frameworks (Angular/React/Vue.js);
 -	Experienced in software design principles and patterns;
