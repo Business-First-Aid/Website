@@ -11,6 +11,8 @@ contact:
       info : "Tulsa, OK, USA 🇺🇸"
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Warsaw, Poland 🇵🇱"
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "+1 (646) 948-9224 ☎️ 💬"
     - icon : ti-link # themify icon pack : https://themify.me/themify-icons
       info : "https://bfa.tiksn.com/"
 
