@@ -13,3 +13,5 @@ gig -list hugo, obsidian, powershell, visualstudiocode, macos, windows, linux
 Add-Content -Path .\.gitignore -Value '# Repository Specific' -Encoding ascii
 Add-Content -Path .\.gitignore -Value '.trash' -Encoding ascii
 Add-Content -Path .\.gitignore -Value '.vault-nickname' -Encoding ascii
+Add-Content -Path .\.gitignore -Value '.hugo_build.lock' -Encoding ascii
+Add-Content -Path .\.gitignore -Value 'site/public' -Encoding ascii

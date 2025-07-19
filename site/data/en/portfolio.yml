@@ -11,3 +11,10 @@ portfolio:
       categories : ["development"]
       content : Task Aggregator and Manager.
       link : "https://github.com/lionize"
+
+    - name : Fossa
+      image : images/portfolio/fossa.png
+      image_webp : images/portfolio/fossa.webp
+      categories : ["development"]
+      content : Organizational Control Center
+      link : "https://github.com/fossa-app"
