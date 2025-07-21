@@ -7,6 +7,12 @@ author: "Tigran (TIKSN) Torosyan"
 description : "Fossa: Organizational Control Center"
 ---
 
+<style>
+  p img {
+    width: 100%;
+  }
+</style>
+
 Fossa is multi-tenant SaaS web application for small and medium business. Core philosophy of the application is to enable to work with business processes instead of management of tabular data.
 
 We understand that not all small companies have Microsoft 365 and Google Workspace subscriptions, so Fossa integrates with [FusionAuth](https://fusionauth.io/) to bring Identity and Access Management to businesses big and small.
