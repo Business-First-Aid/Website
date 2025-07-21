@@ -1,0 +1,3 @@
+img[src$="#blogimage"] {
+  width: 100%;
+}
