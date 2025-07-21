@@ -11,11 +11,6 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ["fr"]
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 ############################# Plugins ##########################
 # css plugins
 [[params.plugins.css]]

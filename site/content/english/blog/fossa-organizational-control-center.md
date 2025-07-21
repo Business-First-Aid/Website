@@ -7,12 +7,6 @@ author: "Tigran (TIKSN) Torosyan"
 description : "Fossa: Organizational Control Center"
 ---
 
-<style>
-  p img {
-    width: 100%;
-  }
-</style>
-
 Fossa is multi-tenant SaaS web application for small and medium business. Core philosophy of the application is to enable to work with business processes instead of management of tabular data.
 
 We understand that not all small companies have Microsoft 365 and Google Workspace subscriptions, so Fossa integrates with [FusionAuth](https://fusionauth.io/) to bring Identity and Access Management to businesses big and small.
@@ -49,31 +43,31 @@ Invalid company license will be considered as trial license which severely limit
 
 ## Flows
 
-![empty flows](/images/blog/fossa-empty-flows.jpeg)
+![empty flows](/images/blog/fossa-empty-flows.jpeg#blogimage)
 
 Flows are designed to highlight the intent and facilitate business processes as an intelligent replacement of simple data manipulation operations.
 
 ### Company Onboarding Flow
 
-![create branch](/images/blog/fossa-create-branch.jpeg)
+![create branch](/images/blog/fossa-create-branch.jpeg#blogimage)
 
 Many things need to happen before company considered to be onboarded and ready for day-to-day activities. Some of those steps are company creation, license upload, company settings configuration, company license upload, branch creation. In order to streamline these processes company onboarding flow provides step by step guidance, showing which steps are already completed and which one still needs to be completed.
 
 ### Employee Onboarding Flow
 
-![employee onboarding](/images/blog/fossa-employee-onboarding.jpeg)
+![employee onboarding](/images/blog/fossa-employee-onboarding.jpeg#blogimage)
 
 Employee onboarding flow is fairly simple and contains only one step: employee creation. Later it might be extended to include mandatory training, checklists, and documentation requirements checks.
 
 ### Branch Management Flow
 
-![view branch](/images/blog/fossa-view-branch.jpeg)
+![view branch](/images/blog/fossa-view-branch.jpeg#blogimage)
 
 Branch management flow provides list of existing branches, their names, and addresses. In this flow new ones can be created, existing ones can be modified, and inactive branches can be deleted (providing that there are no other entities that depends on the branch).
 
 ### Department Management Flow
 
-![create department](/images/blog/fossa-create-department.jpeg)
+![create department](/images/blog/fossa-create-department.jpeg#blogimage)
 
 Department management flow provides list of existing departments, their names and managers (will be selected via searchable dropdown of employees). In this flow new ones can be created, existing ones can be modified, and inactive branches can be deleted (providing that there are no other entities that depends on the department).
 
@@ -81,7 +75,7 @@ Departments are hierarchical entities; department can have parent department. Cy
 
 ### Employee Management Flow
 
-![edit employee light theme](/images/blog/fossa-edit-employee-light-theme.jpeg)
+![edit employee light theme](/images/blog/fossa-edit-employee-light-theme.jpeg#blogimage)
 
 Employees are created by employee onboarding process. However, there are some operations that administrator needs to do like assign employee to a branch and assign employee to the department.
 
